@@ -61,8 +61,6 @@ function QBCore.Functions.Notify(message, _type, data)
             text = message or 'No text provided',
             type = _type or 'info',
             title = _data.title or 'Notification',
-
-
             duration = _data.duration or 4000
         })
     end
