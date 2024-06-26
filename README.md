@@ -74,4 +74,5 @@ end
 
 # Preview
 
-https://github.com/TottoZZ/toz-notifications/assets/116825434/28845a85-cf3d-4a76-a9bc-4a6dd7438e07
+https://github.com/TottoZZ/toz-notifications/assets/116825434/b980bc94-94a5-431c-a0c8-5ffdfacde24e
+
