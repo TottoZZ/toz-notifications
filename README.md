@@ -61,6 +61,8 @@ function QBCore.Functions.Notify(message, _type, data)
             text = message or 'No text provided',
             type = _type or 'info',
             title = _data.title or 'Notification',
+
+
             duration = _data.duration or 4000
         })
     end
@@ -68,3 +70,8 @@ end
 ```
 
 ### Types = 'info', 'success', 'warning', 'error'
+
+
+# Preview
+
+https://github.com/TottoZZ/toz-notifications/assets/116825434/28845a85-cf3d-4a76-a9bc-4a6dd7438e07
